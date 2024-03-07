@@ -1,13 +1,216 @@
-.outer{
-    display: flex;
-    justify-content: center;
+    <div class="top">
+<div class="d2"></div>
+        <div class="outer">
+<div class="accordion" id="accordionPanelsStayOpenExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="panelsStayOpen-headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+    Palette Generator
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
+      <div class="accordion-body">
+        <strong><div class="card mb-3" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="https://static.dribbble.com/uploads/13907/original/112499e9c000c93086bfcace88c0885f.png?1598459372" class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Dynamic Palette Generator</h5>
+        <p class="card-text"><ol>
+          <li>Generates Palettes in different Types and Shades</li>
+          <li>Features <br>
+          <ul>
+            
+            <li>
+            Copy Code
+          </li>
+        <li>Palette Download</li>
+        <li>All Code Acceptance</li>  
+      </ul>
+          </li>
+          <li>Languages Used
+            <ul><li>Html5</li>
+            <li>Css3</li>
+            <li>Js</li>  
+          </ul>
+          </li>
+        </ol></p>
+        <p class="card-text"><small class="text-muted"><a class="p1" href="../palettes/index.html">Launch</a></small></p>
+      </div>
+    </div>
+  </div>
+</div></strong> 
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+        Pixel Colour Picker
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+      <div class="accordion-body">
+        <strong>
+            <div class="card mb-3" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="https://user-images.githubusercontent.com/4233458/41491162-cc3cc48a-70f7-11e8-8796-862d81a33538.png" class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Pixel Pick</h5>
+        <p class="card-text"><ol>
+          <li>Finds the color of a pixel in a given Image</li>
+          <li>Features
+            <ul>
+              <li>Copy Code</li>
+              <li>Pixel Picker</li>
+            </ul>
+            
+          </li>
+          <li>Languages Used
+            <ul><li>Html</li>
+            <li>Css</li>
+          <li>Js</li></ul>
+          </li>
+        </ol></p>
+        <p class="card-text"><small class="text-muted"><a class="p1" href="../imagecolour/index.html">Launch</a></small></p>
+      </div>
+    </div>
+  </div>
+</div>
+        </strong> 
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="panelsStayOpen-headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+  Gradient Generator
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
+      <div class="accordion-body">
+        <strong>
+            <div class="card mb-3" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="https://cdn.hexcolor.co/images/gradient-generator.jpg" class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">G Gen</h5>
+        <p class="card-text"><ol>
+          <li>Generates different types of Gradients</li>
+          <li>Features
+            <ul><li>Copy Code</li>
+            <li>Dynamic Generation V1, V2</li>
+            </ul>
+          </li>
+          <li>Languages Used
+            <ul><li>
+              Html5
+            </li>
+          <li>Css3</li>
+          <li>Js</li>
+          </ul>
+        </ol></p>
+        <p class="card-text"><small class="text-muted"><a class="p1" href="../gradient/index.html">Launch V1</a> <a class="p1" href="../gradientv2/index.html">Launch V2</a></small></p>
+      </div>
+    </div>
+  </div>
+</div>
+        </strong> 
+      </div>
+    </div>
+  </div>
 
-}
-.accordion{
-    width: 600px;
-}
-.top{
-    display: grid;
-    grid-template-rows: 3;
-    margin-top: 100px;
-}
+
+ <div class="accordion-item">
+    <h2 class="accordion-header" id="panelsStayOpen-headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+        Tints and Shades
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
+      <div class="accordion-body">
+        <strong>
+            <div class="card mb-3" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="https://tse1.mm.bing.net/th?id=OIP.benBCHkA84o4laAz__mgtwHaFi&pid=Api&P=0&h=180" class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Tin Tan</h5>
+        <p class="card-text"><ol>
+          <li>Generates different Shades for a given Color </li>
+          <li>Features
+            <ul><li>Copy Code</li>
+            <li>Dynamic Customization</li>
+            </ul>
+          </li>
+          <li>Languages Used
+            <ul><li>Html5</li>
+            <li>Css3</li>
+          <li>Js</li>
+        <li>React.js</li></ul>
+          </li>
+        </ol></p>
+        <p class="card-text"><small class="text-muted"><a class="p1" href="../tints/index.html">Launch V1</a> <a class="p1" href="https://noeldelgado.github.io/shadowlord/#036c17">Launch V2 </a></small></p>
+      </div>
+    </div>
+  </div>
+</div>
+        </strong> 
+      </div>
+    </div>
+  </div>
+
+<div class="accordion-item">
+    <h2 class="accordion-header" id="panelsStayOpen-headingFive">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+    Box-Shadow Generator
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
+      <div class="accordion-body">
+        <strong>
+            <div class="card mb-3" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="https://tse1.mm.bing.net/th?id=OIP.6jPx2yceNdjybfH_gl2IVQHaHa&pid=Api&P=0&h=180" class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Box It</h5>
+        <p class="card-text"> <ol>
+          <li>Generates ang give a live view about Box-Shadow Generator </li>
+     <li>Features <ul><li>Copy Code</li>
+    <li>Dynamic Visualization</li></ul></li>
+  <li>Languages Used 
+    <ul><li>Html</li>
+    <li>Css</li>
+    <li>Js</li>    </ul>
+  </li>
+</ol></p>
+        <p class="card-text"><small class="text-muted"><a class="p1" href="../box-shadow/index.html">Launch V1</a> <a class="p1" href="../boxV2/index.html">Launch V2 </a></small></p>
+      </div>
+    </div>
+  </div>
+</div>
+        </strong> 
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+</div>
+  </div>
+<div class="d3"></div>
+    </div>
