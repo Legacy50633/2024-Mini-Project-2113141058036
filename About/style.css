@@ -1,0 +1,13 @@
+.outer{
+    display: flex;
+    justify-content: center;
+
+}
+.accordion{
+    width: 600px;
+}
+.top{
+    display: grid;
+    grid-template-rows: 3;
+    margin-top: 100px;
+}
